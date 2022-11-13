@@ -10,7 +10,7 @@ Content bellow will grow over time.
 
 ## Contents
 - Basics
-    - Going deep into Data Types
+    - Going deep into Data Structures
     - Functional Programming
     - Handling Exceptions
   
